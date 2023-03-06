@@ -2,7 +2,10 @@
 
 Please note this repository is shared only for academic purpose. Copying others work and any other means of plagiarizing are serious offenses at the University of Toronto.
 
-The slides for our map is here! Check it out!
+The slides for our OP1 is here! Check it out!
+https://www.icloud.com/keynote/0e0VdkhrfrTFrhMWEuWDEcPFA#OP1-cd100_final_with_reference
+
+The slides for our Final Oral Presentation(OP2) is here! Check it out!
 https://www.icloud.com/keynote/09fpW-Mbm_odp1KPw9g0rEt_g#Untitled
 
 IMPORTANT: If you are using MacOS, please download it and open in your own Key Note APP to gain the best experience!!
